@@ -10,3 +10,4 @@ uvicorn
 psycopg2
 sqlalchemy
 mlflow
+vite
